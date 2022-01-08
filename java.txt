@@ -22,3 +22,17 @@ char      2      A,B,C, ... // ingle variables
 boolean   1      true/false
 
 for reference type we need to declare new operator to alloate memory for this variable
+
+Order of Operation:
+()
+* /
++ -
+
+Casting :
+When a value should be converted to a data type that is bigger casting or conversion happens implicity
+
+string : // takes sting and returns integer 
+
+Integer.parseInt()
+Short.parseShort()
+Float.parseFloat()
