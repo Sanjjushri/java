@@ -36,3 +36,6 @@ string : // takes sting and returns integer
 Integer.parseInt()
 Short.parseShort()
 Float.parseFloat()
+
+ReadingInput :
+when we use next() , if we enter 2 words only 1 will be printed because the words that we give is considered as a token, and if we have space between tow tokens , if u want to print both the words then we need to call the next method 2 times.
