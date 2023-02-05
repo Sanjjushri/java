@@ -1,0 +1,8 @@
+Always print stats from top to bottom
+It print from left to right 
+
+1) size: How many rows you want in the pattern, input from the user/ function parameter. 
+2) Pattern programs require nested loops.
+3) start = 1, then loop runs till <= n. 
+   start = 0, then loop runs till < n.
+4)  
