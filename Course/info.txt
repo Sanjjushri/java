@@ -1,0 +1,73 @@
+Oracle Certified Professional - Java SE 11 Developer 
+
+Exam number: 1Z0-819 
+
+1) Understanding Java Technology and Environment 
+2) Creation of Basic Java program 
+3) Using java Arrays 
+4) Using and Creating Methods 
+5) Re-Utilizing Implementations Via Inhertitance 
+6) Work with Java String APIs and Primitive Data Types 
+7) Handling Exceptions 
+8) Utilizing Operators and Constructs for Decisions
+9) Programming Abstractly throgh interfaces 
+10) Understanding modules 
+
+Steps:
+Enroll into a video course 
+practice with hands on labs 
+try practice tests or quiz and find your skill gaps 
+re learn the topic wher you need improvement 
+
+Benefits of Java:
+
+1. Object Oriented - All the code is defined in classes and most of those classes can instantiated into object 
+    eg: animal is a class 
+        cat is an object 
+        classes - are frame 
+        object is a real picture 
+
+2. Funcational Programming - java allows functional programming within the class 
+    store a function in a variable 
+
+3. Encapsulation: local, private, defaut, protected, public, exports, package 
+
+4. Platform Independent: write once run anywhere 
+ 
+5. Robust - prevent memory leaks by automatic garbage collection 
+
+6. Simple 
+
+7. Secure 
+
+8. Multithreading - allow multiple piece of code to run at same time 
+
+9. Backward Compatibility 
+
+Every Java program:
+
+Class - describe characteristics 
+
+Object / Instance - Runtime instance of class in memory 
+                  - It represent state of program 
+
+Reference - Variable that points object 
+
+    Animal      Dog     =   new Animal(); (Constructor)
+    Class name  Oject Reference  Object 
+
+
+
+
+source: https://www.youtube.com/watch?v=xk4_1vDrzzo
+
+JDK 
+
+Java Development Kit - Developers tools - helps to code 
+
+JRE - Java Runtime Env. - Libraries and toolkits 
+
+JVM - Java Virtual Machine - runs java programs 
+
+IDE - Integrated Development Environment (software that helps us write software)
+
