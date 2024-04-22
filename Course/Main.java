@@ -27,5 +27,27 @@ public class Main {
 
         //  VARIABLES:
         
+        int x = 123; 
+
+        System.out.println("My number is: " + x);
+
+        long y = 48975453290L;
+
+        byte z = 100;
+
+        float h = 3.14f;
+        
+        double j = 3.7899;
+
+        boolean l = false;
+
+        char symbol = '@';
+
+        // Reference datatypes begins with a capital letter
+        String name = "Sanjjushri";
+
+        
+
+
     }
 }
