@@ -45,9 +45,8 @@ public class Main {
 
         // Reference datatypes begins with a capital letter
         String name = "Sanjjushri";
-
         
-
+        
 
     }
 }
