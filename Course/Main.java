@@ -1,5 +1,7 @@
 package Course;
 
+import java.util.Scanner;
+
 public class Main {
     
     public static void main(String[] args) {
@@ -44,8 +46,69 @@ public class Main {
         char symbol = '@';
 
         // Reference datatypes begins with a capital letter
-        String name = "Sanjjushri";
+        String names = "Sanjjushri";
         
+        System.out.println("Hello " +names);
+
+        // Swap two variables 
+
+        String a = "water";
+        String b = "Kool-Aid";
+        String temp;
+        
+        temp = a; 
+        a = b;
+        b = temp;
+
+        System.out.println("a: " + a);
+        System.out.println("b: " + b);
+        
+        // 4. User Input
+        
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("What is your name? ");
+        String name = scanner.nextLine();
+
+        System.out.println("How old are you? ");
+        int age = scanner.nextInt();
+        scanner.nextLine();
+
+        System.out.println("What is your favorite food?");
+        String food = scanner.nextLine();
+
+
+        System.out.println("Hello "+name);
+        System.out.println("You are "+age+ " years old" );
+        System.out.println("You like "+food);
+
+        // 5. Expressions
+
+        // expression = operands & operators 
+        // operands = values, variables, numbers, quantity 
+        // operators = + - * / % 
+
+        int friends = 10; 
+
+        friends = friends + 1;
+
+        friends = friends /2;
+
+        friends = friends % 3;
+
+        friends++;
+
+        friends--;
+
+        double friend = 10;
+        friend = (double) friend /3;
+
+        System.out.println(friend);
+
+        // 6. GUI (Graphical User Interface) Intro:
+
+        
+
         
 
     }
