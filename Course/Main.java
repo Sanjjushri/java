@@ -72,7 +72,7 @@ public class Main {
 
         System.out.println("How old are you? ");
         int age = scanner.nextInt();
-        scanner.nextLine();
+        // scanner.nextLine();
 
         System.out.println("What is your favorite food?");
         String food = scanner.nextLine();
