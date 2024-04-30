@@ -19,5 +19,6 @@ public class StringMethods {
         String rep_str = name.replace('u', 'j');
 
         System.out.println(to_upper);
+        
     }
 }
