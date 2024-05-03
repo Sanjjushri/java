@@ -1,0 +1,7 @@
+package Course;
+
+public class ForEachLoop {
+    public static void main(String[] args){
+        
+    }
+}
